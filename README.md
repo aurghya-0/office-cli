@@ -1,4 +1,4 @@
-# Office CLI automates office tasks
+# Office CLI Automates office excel automation works
 
 ## Installation
 

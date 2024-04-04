@@ -4,7 +4,7 @@ from cement.utils.version import get_version_banner
 from ..core.version import get_version
 
 VERSION_BANNER = """
-Office CLI automates office tasks %s
+Office CLI Automates office excel automation works %s
 %s
 """ % (get_version(), get_version_banner())
 
@@ -14,7 +14,7 @@ class Base(Controller):
         label = 'base'
 
         # text displayed at the top of --help output
-        description = 'Office CLI automates office tasks'
+        description = 'Office CLI Automates office excel automation works'
 
         # text displayed at the bottom of --help output
         epilog = 'Usage: office-cli command1 --foo bar'
